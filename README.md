@@ -1,2 +1,0 @@
-# VNetMon
-Vizyon Network Monitor
